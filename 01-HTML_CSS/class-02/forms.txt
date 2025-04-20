@@ -61,7 +61,7 @@ Checkpoints:
 
 ---
 
- ✅ Assignment 5: Hotel Room Reservation Form
+ Assignment 5: Hotel Room Reservation Form
 Theme: Book a hotel room.
 
 Checkpoints:
@@ -74,6 +74,3 @@ Checkpoints:
 - Special Instructions (textarea)
 - Submit & Reset buttons
 
----
-
-Let me know if you want the full HTML code for any of these!
