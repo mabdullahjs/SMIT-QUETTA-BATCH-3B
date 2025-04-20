@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Travel Booking Form</h1>
+    <form>
+        <label for="fullname">FullName:</label><br>
+        <input type="text" id="fullname" placeholder="enter your name" name="full-name"> <br><br>
+
+        <label for="age">Age:</label><br>
+        <input type="number" placeholder="enter your age" id="age" name="age"> <br><br>
+
+        <label>Gender: </label> <br>
+
+        <input type="radio" id="male" name="gender">
+        <label for="male">male</label>
+        <input type="radio" id="female" name="gender">
+        <label for="female">female</label><br><br>
+
+        <label for="destination">Destination</label><br>
+        <select name="destination" id="destination">
+            <option value="paris">paris</option>
+            <option value="karachi">karachi</option>
+            <option value="lahore">lahore</option>
+            <option value="tokyo">tokyo</option>
+            <option value="islamabad">islamabad</option>
+        </select> <br><br>
+
+        <label for="date">Travel date</label><br>
+        <input type="date" id="date"> <br><br>
+
+        <label for="">Package Type</label> <br>
+
+        <input type="checkbox" id="budget">
+        <label for="budget">budget</label><br>
+        <input type="checkbox" id="standard">
+        <label for="standard">standard</label><br>
+        <input type="checkbox" id="luxury">
+        <label for="luxury">luxury</label><br><br>
+
+        <label for="special-request">Special request:</label><br>
+        <textarea cols="20" rows="5" name="special-request" id="special-request"></textarea> <br><br>
+
+        <button type="submit">Submit </button>
+
+    </form>
+
+</body>
+</html>

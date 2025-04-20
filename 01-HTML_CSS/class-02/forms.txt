@@ -1,0 +1,79 @@
+
+
+ ✅ Assignment 1: Travel Booking Form
+Theme: A basic form for booking a travel package.
+
+Checkpoints:
+- Full Name (text)
+- Age (number)
+- Gender (radio: Male, Female, Other)
+- Destination (dropdown: Paris, London, Tokyo, New York)
+- Travel Date (date)
+- Package Type (checkboxes: Budget, Standard, Luxury)
+- Special Requests (textarea)
+- Submit & Reset buttons
+
+---
+
+ ✅ Assignment 2: Job Application Form
+Theme: Apply for a job position.
+
+Checkpoints:
+- Applicant Name (text)
+- Email (email)
+- Phone Number (tel)
+- Date of Birth (date)
+- Gender (radio)
+- Position Applying For (dropdown)
+- Upload Resume (file)
+- Skills (checkboxes: HTML, CSS, JS, Python, etc.)
+- Cover Letter (textarea)
+- Submit button
+
+---
+
+ ✅ Assignment 3: Event Registration Form
+Theme: Register for an event or workshop.
+
+Checkpoints:
+- Participant Name (text)
+- Email Address (email)
+- Event Type (dropdown: Workshop, Seminar, Competition)
+- Preferred Time Slot (radio: Morning, Afternoon, Evening)
+- Days Attending (checkboxes: Day 1, Day 2, Day 3)
+- Food Preference (radio: Veg, Non-Veg)
+- Register & Reset buttons
+
+---
+
+ ✅ Assignment 4: Online Course Enrollment Form
+Theme: Enroll in an online course.
+
+Checkpoints:
+- Student Name (text)
+- Email & Password
+- Select Courses (checkboxes: HTML, CSS, JavaScript, React)
+- Learning Mode (radio: Online, Offline)
+- Address (textarea)
+- Upload ID Proof (file)
+- Date of Enrollment (date)
+- Submit button
+
+---
+
+ ✅ Assignment 5: Hotel Room Reservation Form
+Theme: Book a hotel room.
+
+Checkpoints:
+- Guest Name (text)
+- Number of Guests (number)
+- Check-in & Check-out Dates (date)
+- Room Type (dropdown: Single, Double, Suite)
+- Extra Services (checkboxes: Breakfast, Airport Pickup, Spa)
+- Payment Method (radio: Card, Cash, Online)
+- Special Instructions (textarea)
+- Submit & Reset buttons
+
+---
+
+Let me know if you want the full HTML code for any of these!
