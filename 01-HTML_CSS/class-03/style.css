@@ -1,0 +1,139 @@
+/* .heading {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+p{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#unique-heading{
+    background-color: purple;
+    color: white;
+    text-align: end;
+} */
+
+/* universal selector */
+/* *{
+    color: red;
+} */
+
+/* type selector */
+
+/* h1 , p {
+    text-align: center;
+} */
+
+/* class selector */
+/* .heading{
+    background-color: red;
+    text-align: center;
+    color: white;
+} */
+
+/* id selector */
+/* #unique-heading{
+    color: red;
+} */
+
+/* precedence (kisko zyada ahmiyat milaiga) */
+/* 
+#head-one {
+  color: orange;
+}
+.heading {
+  color: red;
+}
+
+h1 {
+  color: purple !important;
+  color: purple;
+}
+
+.heading {
+    color: brown;
+} */
+
+
+/* 
+CSS line by line chalti ha
+
+!important
+inline css
+id
+class
+type
+universal
+
+*/
+
+
+
+/* Child Selector */
+
+/* .parent > p {
+    color: red;
+} */
+
+
+/* Descendant Selector */
+/* 
+.parent  p {
+    color: red;
+} */
+
+
+
+/* 
+Inheritance 
+
+
+color
+
+font-family
+
+font-size
+
+line-height
+
+visibility
+
+letter-spacing
+
+word-spacing
+
+text-align */
+/* 
+
+.parent {
+    color: red;
+    text-align: center;
+} */
+
+
+/* 
+h1 {
+    background-color: #1ab7af;
+    color: #ffffff;
+    opacity: 0.5;
+} */
+
+/* body {
+    background-color: rgba(200, 100, 50 , 0.1);
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #c1bfbd;
+    margin: 30px 50px;
+}
+
+h1 {
+    background-color: #e2e2e1;
+    color: #888581;
+}
